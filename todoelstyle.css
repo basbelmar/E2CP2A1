@@ -1,0 +1,136 @@
+body{
+	margin: 0;
+	font-family: 'Lato', sans-serif;
+}
+
+p{
+	text-align: center;
+
+}
+
+h1{
+	
+	text-align: center;
+}
+.banner{
+	background-image: url("images/bg.jpeg");
+	/*backrgound cover;algo asi*/ 
+	margin: 0;
+	height: 400px;
+	width: 100%;
+	color: white;
+	float: left;
+	text-align: center;
+
+}
+
+.banner ul, .banner ul li{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+.banner ul{
+	float: right;
+	padding-top: 20px;
+}
+
+.banner ul li{
+	float: left;
+	padding: 0 30px;
+	display: inline-block;
+}
+
+.banner ul li a{
+	color: #fff;
+}
+
+.banner button{
+	padding: 15px;
+	border: none;
+	background: blue;
+	border-radius: 5px;
+	color: white;
+	text-align: center;
+}
+
+.banner button #dos{
+	background-color:green; /*??????*/
+
+}
+
+#navbar{
+	list-style-type: none;
+}
+
+#slogan{
+	clear: both;
+	padding-top:50px;
+	
+
+}
+
+#maisgrande{
+	text-align: center;
+	padding-top:30px;
+}
+
+#logo{
+	height: 45px;
+	width: 140px;
+	padding-top: 20px;
+	float: left;
+
+}
+
+.people{
+	clear: both;
+	text-align: center;
+}
+
+#grupito {
+	margin: 0;
+	height: 400px;
+	width: 450px;
+}
+
+.solicita{
+	background-color: grey;
+	height: 200px;
+	width: 100%;
+	
+}
+
+#tres {
+	padding: 15px;
+	border: none;
+	background: blue;
+	border-radius: 5px;
+	position: relative;
+	color: white;
+	text-align: center;
+}
+
+
+
+.prefooter {
+	background-color: white;
+	height: 140px;
+	width: 100%;
+
+}
+
+.footer{
+	background-color: black;
+	height: 70px;
+	width: 100%;
+
+}
+
+.final {
+	color: white;
+	
+}
+
+#sus{float: left;}
+#contact{float: left;}
